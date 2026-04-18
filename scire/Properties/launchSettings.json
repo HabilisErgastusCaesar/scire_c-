@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "scire (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "scire (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
