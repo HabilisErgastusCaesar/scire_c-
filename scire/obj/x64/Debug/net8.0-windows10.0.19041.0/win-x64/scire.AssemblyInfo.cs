@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc49f601b21baeda730f403bc4f93379ee600a77")]
 [assembly: System.Reflection.AssemblyProductAttribute("scire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

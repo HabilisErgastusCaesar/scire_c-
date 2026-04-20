@@ -1,12 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\scire\\scire\\",
-  "Documents": [],
+  "WorkspaceRootPath": "F:\\scire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40B20A0-CA83-59B6-C704-8937E51B800B}|scire\\scire.csproj|f:\\scire\\scire\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40B20A0-CA83-59B6-C704-8937E51B800B}|scire\\scire.csproj|solutionrelative:scire\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40B20A0-CA83-59B6-C704-8937E51B800B}|scire\\scire.csproj|f:\\scire\\scire\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A40B20A0-CA83-59B6-C704-8937E51B800B}|scire\\scire.csproj|solutionrelative:scire\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\barts\\source\\repos\\overhorrings\\overhorrings\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40B20A0-CA83-59B6-C704-8937E51B800B}|scire\\scire.csproj|f:\\scire\\scire\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40B20A0-CA83-59B6-C704-8937E51B800B}|scire\\scire.csproj|solutionrelative:scire\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40B20A0-CA83-59B6-C704-8937E51B800B}|scire\\scire.csproj|f:\\scire\\scire\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A40B20A0-CA83-59B6-C704-8937E51B800B}|scire\\scire.csproj|solutionrelative:scire\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\scire\\scire\\App.xaml",
+              "RelativeDocumentMoniker": "scire\\App.xaml",
+              "ToolTip": "F:\\scire\\scire\\App.xaml",
+              "RelativeToolTip": "scire\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T23:42:37.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\scire\\scire\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "scire\\MainWindow.xaml",
+              "ToolTip": "F:\\scire\\scire\\MainWindow.xaml",
+              "RelativeToolTip": "scire\\MainWindow.xaml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T23:42:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\scire\\scire\\App.xaml.cs",
+              "RelativeDocumentMoniker": "scire\\App.xaml.cs",
+              "ToolTip": "F:\\scire\\scire\\App.xaml.cs",
+              "RelativeToolTip": "scire\\App.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwDoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:01:05.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\barts\\source\\repos\\overhorrings\\overhorrings\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\barts\\source\\repos\\overhorrings\\overhorrings\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:47:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\scire\\scire\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "scire\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\scire\\scire\\MainWindow.xaml.cs",
+              "RelativeToolTip": "scire\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA+wDEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T23:42:59.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

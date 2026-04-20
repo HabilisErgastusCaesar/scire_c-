@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\scire\\scire\\scire\\scire.csproj": {}
+    "F:\\scire\\scire\\scire.csproj": {}
   },
   "projects": {
-    "F:\\scire\\scire\\scire\\scire.csproj": {
+    "F:\\scire\\scire\\scire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\scire\\scire\\scire\\scire.csproj",
+        "projectUniqueName": "F:\\scire\\scire\\scire.csproj",
         "projectName": "scire",
-        "projectPath": "F:\\scire\\scire\\scire\\scire.csproj",
+        "projectPath": "F:\\scire\\scire\\scire.csproj",
         "packagesPath": "C:\\Users\\barts\\.nuget\\packages\\",
-        "outputPath": "F:\\scire\\scire\\scire\\obj\\",
+        "outputPath": "F:\\scire\\scire\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\ProgramData\\VisualStudio\\NuGetPackages"
@@ -57,6 +57,10 @@
             "Microsoft.WindowsAppSDK": {
               "target": "Package",
               "version": "[1.8.260317003, )"
+            },
+            "XamlColorSchemeGenerator": {
+              "target": "Package",
+              "version": "[3.0.0.31, )"
             }
           },
           "imports": [

@@ -330,6 +330,19 @@
           "buildTransitive/Microsoft.WindowsAppSDK.WinUI.targets": {}
         }
       },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Numerics.Tensors/9.0.0": {
         "type": "package",
         "compile": {
@@ -344,6 +357,22 @@
         },
         "build": {
           "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "XamlColorSchemeGenerator/3.0.0.31": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.1.0"
+        },
+        "compile": {
+          "lib/net45/XamlColorSchemeGenerator.exe": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/XamlColorSchemeGenerator.exe": {
+            "related": ".pdb"
+          }
         }
       }
     },
@@ -635,6 +664,19 @@
           "buildTransitive/Microsoft.WindowsAppSDK.WinUI.targets": {}
         }
       },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Numerics.Tensors/9.0.0": {
         "type": "package",
         "compile": {
@@ -649,6 +691,22 @@
         },
         "build": {
           "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "XamlColorSchemeGenerator/3.0.0.31": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.1.0"
+        },
+        "compile": {
+          "lib/net45/XamlColorSchemeGenerator.exe": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/XamlColorSchemeGenerator.exe": {
+            "related": ".pdb"
+          }
         }
       }
     },
@@ -940,6 +998,19 @@
           "buildTransitive/Microsoft.WindowsAppSDK.WinUI.targets": {}
         }
       },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Numerics.Tensors/9.0.0": {
         "type": "package",
         "compile": {
@@ -954,6 +1025,22 @@
         },
         "build": {
           "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "XamlColorSchemeGenerator/3.0.0.31": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.1.0"
+        },
+        "compile": {
+          "lib/net45/XamlColorSchemeGenerator.exe": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/XamlColorSchemeGenerator.exe": {
+            "related": ".pdb"
+          }
         }
       }
     },
@@ -1245,6 +1332,19 @@
           "buildTransitive/Microsoft.WindowsAppSDK.WinUI.targets": {}
         }
       },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Numerics.Tensors/9.0.0": {
         "type": "package",
         "compile": {
@@ -1259,6 +1359,22 @@
         },
         "build": {
           "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "XamlColorSchemeGenerator/3.0.0.31": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.1.0"
+        },
+        "compile": {
+          "lib/net45/XamlColorSchemeGenerator.exe": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net45/XamlColorSchemeGenerator.exe": {
+            "related": ".pdb"
+          }
         }
       }
     }
@@ -3152,6 +3268,36 @@
         "tools/x86/GenXbf.dll"
       ]
     },
+    "Newtonsoft.Json/11.0.1": {
+      "sha512": "pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "type": "package",
+      "path": "newtonsoft.json/11.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.11.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
     "System.Numerics.Tensors/9.0.0": {
       "sha512": "hyJB4UlpAi19Xr9AXzu2NuagKC4lPfHObNMEAA0HmqFz2rX7wKgzeYzO/jM/eBHDhnUGFFEjk5cOoJaxqg5J4A==",
       "type": "package",
@@ -3179,12 +3325,30 @@
         "system.numerics.tensors.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "XamlColorSchemeGenerator/3.0.0.31": {
+      "sha512": "qtXcCkGpb+rWNwcQNNd3ex6fvNSwOWSCqbVLsCJlzv9QHAQjxaz2XEyR3OvRhOr4EKakxigE3L5FvskjpxtKFQ==",
+      "type": "package",
+      "path": "xamlcolorschemegenerator/3.0.0.31",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/XamlColorSchemeGenerator.exe",
+        "lib/net45/XamlColorSchemeGenerator.pdb",
+        "tools/Newtonsoft.Json.dll",
+        "tools/XamlColorSchemeGenerator.exe",
+        "tools/XamlColorSchemeGenerator.pdb",
+        "xamlcolorschemegenerator.3.0.0.31.nupkg.sha512",
+        "xamlcolorschemegenerator.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows10.0.19041": [
       "Microsoft.Windows.SDK.BuildTools >= 10.0.28000.1721",
-      "Microsoft.WindowsAppSDK >= 1.8.260317003"
+      "Microsoft.WindowsAppSDK >= 1.8.260317003",
+      "XamlColorSchemeGenerator >= 3.0.0.31"
     ]
   },
   "packageFolders": {
@@ -3194,11 +3358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\scire\\scire\\scire\\scire.csproj",
+      "projectUniqueName": "F:\\scire\\scire\\scire.csproj",
       "projectName": "scire",
-      "projectPath": "F:\\scire\\scire\\scire\\scire.csproj",
+      "projectPath": "F:\\scire\\scire\\scire.csproj",
       "packagesPath": "C:\\Users\\barts\\.nuget\\packages\\",
-      "outputPath": "F:\\scire\\scire\\scire\\obj\\",
+      "outputPath": "F:\\scire\\scire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\ProgramData\\VisualStudio\\NuGetPackages"
@@ -3244,6 +3408,10 @@
           "Microsoft.WindowsAppSDK": {
             "target": "Package",
             "version": "[1.8.260317003, )"
+          },
+          "XamlColorSchemeGenerator": {
+            "target": "Package",
+            "version": "[3.0.0.31, )"
           }
         },
         "imports": [
@@ -3321,5 +3489,30 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "XamlColorSchemeGenerator 3.0.0.31 depends on Newtonsoft.Json (>= 10.1.0) but Newtonsoft.Json 10.1.0 was not found. Newtonsoft.Json 11.0.1 was resolved instead.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0-windows10.0.19041",
+        "net8.0-windows10.0.19041/win-arm64",
+        "net8.0-windows10.0.19041/win-x64",
+        "net8.0-windows10.0.19041/win-x86"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XamlColorSchemeGenerator 3.0.0.31' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows10.0.19041'. This package may not be fully compatible with your project.",
+      "libraryId": "XamlColorSchemeGenerator",
+      "targetGraphs": [
+        "net8.0-windows10.0.19041"
+      ]
+    }
+  ]
 }

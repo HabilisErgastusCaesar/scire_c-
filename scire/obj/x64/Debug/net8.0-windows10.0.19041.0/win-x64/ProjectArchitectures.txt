@@ -1,0 +1,1 @@
+F:\scire\scire\scire.csproj;x64
