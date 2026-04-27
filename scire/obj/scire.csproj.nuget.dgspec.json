@@ -58,9 +58,9 @@
               "target": "Package",
               "version": "[1.8.260317003, )"
             },
-            "XamlColorSchemeGenerator": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[3.0.0.31, )"
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

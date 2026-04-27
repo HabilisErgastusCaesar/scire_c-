@@ -10,6 +10,7 @@
       "scire/1.0.0": {
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.8.260317003",
+          "Newtonsoft.Json": "11.0.1",
           "XamlColorSchemeGenerator": "3.0.0.31",
           "Microsoft.Web.WebView2.Core.Projection": "1.0.3179.45",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "8.0.25",

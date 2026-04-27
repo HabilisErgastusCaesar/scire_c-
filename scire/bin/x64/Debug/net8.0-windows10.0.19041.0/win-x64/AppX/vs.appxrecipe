@@ -30,21 +30,21 @@
     <AppXManifest Include="F:\scire\scire\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-04-20T03:41:34.062</Modified>
+      <Modified>2026-04-20T03:54:55.648</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="F:\scire\scire\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\scire.runtimeconfig.json">
       <PackagePath>scire.runtimeconfig.json</PackagePath>
-      <Modified>2026-04-19T04:07:11.835</Modified>
+      <Modified>2026-04-20T03:54:55.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\scire\scire\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>scire.exe</PackagePath>
-      <Modified>2026-04-20T03:41:33.922</Modified>
+      <Modified>2026-04-20T03:54:55.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\scire\scire\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\scire.dll">
       <PackagePath>scire.dll</PackagePath>
-      <Modified>2026-04-20T03:41:33.916</Modified>
+      <Modified>2026-04-20T03:54:54.989</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\barts\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.25\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -936,7 +936,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\scire\scire\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\scire.deps.json">
       <PackagePath>scire.deps.json</PackagePath>
-      <Modified>2026-04-19T04:07:11.818</Modified>
+      <Modified>2026-04-20T03:54:55.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\scire\scire\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -972,7 +972,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\scire\scire\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2026-04-20T01:30:46.105</Modified>
+      <Modified>2026-04-20T03:54:55.382</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
